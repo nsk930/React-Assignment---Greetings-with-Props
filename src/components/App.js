@@ -3,8 +3,8 @@ import '../styles/App.css';
 import Welcome from './Welcome';
 
 const App = () => {
-    return ( <
-        Welcome name = " Nisahnt kumar" / >
+    return ( 
+        <Welcome name = " Nisahnt kumar" />
     )
 }
 

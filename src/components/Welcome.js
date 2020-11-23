@@ -1,10 +1,11 @@
+import React from "react";
 export default function Welcome(props) {
-    return ( <
-        >
+    return ( 
+        <>
 
-        <
-        h1 > Hey { props.name }! < /h1>  <
-        h2 > welcome to newton school < /h2>  <
-        />
+        
+        <h1> Hey { props.name }! </h1>  
+        <h2> welcome to newton school </h2>  
+        </>
     );
 }
