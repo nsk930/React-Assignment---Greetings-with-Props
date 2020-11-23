@@ -5,7 +5,7 @@ export default function Welcome(props) {
 
         
         <h1> Hey { props.name }! </h1>  
-        <h2> welcome to newton school </h2>  
+        <h2>Welcome to Newton School.</h2>  
         </>
     );
 }
